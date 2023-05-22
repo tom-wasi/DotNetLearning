@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "BhhXEWUGBqCcfl5Shpw9NYZByUNQul9i6sWGcZO+LJc=",
+  "Source": "BankApp",
+  "BasePath": "_content/BankApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BankApp\\wwwroot",
+      "Source": "BankApp",
+      "ContentRoot": "C:\\aspnetcorelearning\\BankApp\\BankApp\\wwwroot\\",
+      "BasePath": "_content/BankApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\aspnetcorelearning\\BankApp\\BankApp\\wwwroot\\account.json",
+      "SourceId": "BankApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\aspnetcorelearning\\BankApp\\BankApp\\wwwroot\\",
+      "BasePath": "_content/BankApp",
+      "RelativePath": "account.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account.json"
+    },
+    {
+      "Identity": "C:\\aspnetcorelearning\\BankApp\\BankApp\\wwwroot\\sample.pdf",
+      "SourceId": "BankApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\aspnetcorelearning\\BankApp\\BankApp\\wwwroot\\",
+      "BasePath": "_content/BankApp",
+      "RelativePath": "sample.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sample.pdf"
+    }
+  ]
+}

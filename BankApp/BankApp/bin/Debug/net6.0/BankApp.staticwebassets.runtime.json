@@ -1,0 +1,1 @@
+{"ContentRoots":["C:\\aspnetcorelearning\\BankApp\\BankApp\\wwwroot\\"],"Root":{"Children":{"account.json":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"account.json"},"Patterns":null},"sample.pdf":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"sample.pdf"},"Patterns":null}},"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}
