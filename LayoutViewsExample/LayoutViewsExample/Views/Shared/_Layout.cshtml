@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewData["Title"]</title>
+    <link href="~/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <div class="navbar">
+            <div class="navbar-brand">Asp.Net core App</div>
+            <ul>
+                <li>
+                    <a href="/">Home</a>
+                    <a href="/about-company">About</a>
+                    <a href="/contact-support">Contact</a>
+                    <a href="/products">All Products</a>
+                    <a href="/search-products">Search Products</a>
+                    <a href="/order-product">Order</a>
+                </li>
+            </ul>
+        </div>
+        <div class="page-content">
+             @RenderBody()
+        </div>
+        <div class="footer-content">
+            @RenderSection("footer_section", false)
+        </div>
+    </div>
+</body>
+</html>
