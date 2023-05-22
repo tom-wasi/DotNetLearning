@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "l8VU1eXwXkjRnbbxihLC7qR5GhEvfPm/3peiaG47048=",
+  "Source": "ViewExample",
+  "BasePath": "_content/ViewExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ViewExample\\wwwroot",
+      "Source": "ViewExample",
+      "ContentRoot": "C:\\aspnetcorelearning\\ViewExample\\ViewExample\\wwwroot\\",
+      "BasePath": "_content/ViewExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\aspnetcorelearning\\ViewExample\\ViewExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "ViewExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\aspnetcorelearning\\ViewExample\\ViewExample\\wwwroot\\",
+      "BasePath": "_content/ViewExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
