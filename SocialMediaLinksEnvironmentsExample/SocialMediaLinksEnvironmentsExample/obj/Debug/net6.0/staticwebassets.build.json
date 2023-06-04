@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "EM7rf6PZvJLsPhTGWAj0lb0DVgzTmb1KzEg81gyhyb0=",
+  "Source": "SocialMediaLinksEnvironmentsExample",
+  "BasePath": "_content/SocialMediaLinksEnvironmentsExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SocialMediaLinksEnvironmentsExample\\wwwroot",
+      "Source": "SocialMediaLinksEnvironmentsExample",
+      "ContentRoot": "C:\\aspnetcorelearning\\SocialMediaLinksEnvironmentsExample\\SocialMediaLinksEnvironmentsExample\\wwwroot\\",
+      "BasePath": "_content/SocialMediaLinksEnvironmentsExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\aspnetcorelearning\\SocialMediaLinksEnvironmentsExample\\SocialMediaLinksEnvironmentsExample\\wwwroot\\Style_Sheet.css",
+      "SourceId": "SocialMediaLinksEnvironmentsExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\aspnetcorelearning\\SocialMediaLinksEnvironmentsExample\\SocialMediaLinksEnvironmentsExample\\wwwroot\\",
+      "BasePath": "_content/SocialMediaLinksEnvironmentsExample",
+      "RelativePath": "Style_Sheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style_Sheet.css"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\aspnetcorelearning\\SocialMediaLinksEnvironmentsExample\\SocialMediaLinksEnvironmentsExample\\wwwroot\\Style_Sheet.css",
+      "PackagePath": "staticwebassets\\Style_Sheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SocialMediaLinksEnvironmentsExample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SocialMediaLinksEnvironmentsExample.props",
+      "PackagePath": "build\\SocialMediaLinksEnvironmentsExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SocialMediaLinksEnvironmentsExample.props",
+      "PackagePath": "buildMultiTargeting\\SocialMediaLinksEnvironmentsExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SocialMediaLinksEnvironmentsExample.props",
+      "PackagePath": "buildTransitive\\SocialMediaLinksEnvironmentsExample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
